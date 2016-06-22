@@ -1,6 +1,8 @@
 # euro-2016-pool
 Super simple EURO 2016 pool
 
+### Initial selection
+
 | Players | Teams | 
 | --- | --- | 
 | Patrick |  Slovakia,  Italy,  Turkey,  Switzerland | 
