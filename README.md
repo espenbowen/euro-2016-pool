@@ -23,4 +23,4 @@ Super simple EURO 2016 pool
 | Kara |  ~~Iceland~~,  ~~Russia~~,  ~~Sweden~~,  ~~Albania~~ | 
 | Espen |  ~~Spain~~,  Portugal,  ~~Wales~~,  ~~Romania~~ | 
 
-## Espen is the winner!
+# Espen is the winner!
